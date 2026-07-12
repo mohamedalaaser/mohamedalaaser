@@ -10,7 +10,7 @@ Building production systems from embedded hardware to cloud — currently shapin
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-alaaser-b05b60183/)
 [![Email](https://img.shields.io/badge/Email-mohamed.s.alaaser@icloud.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohamed.s.alaaser@icloud.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](#-featured-projects)
+[![Portfolio](https://img.shields.io/badge/Portfolio-mohamedalaaser.com-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://mohamedalaaser.com)
 
 <br />
 
@@ -128,6 +128,7 @@ Suplyd                       Junior Software Engineer        Mar 2023 – Nov 20
 If you're building something interesting — I'd love to hear from you.
 
 [![LinkedIn](https://img.shields.io/badge/-Mohamed_Alaaser-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-alaaser-b05b60183/)
+[![Portfolio](https://img.shields.io/badge/-mohamedalaaser.com-000000?style=flat-square&logo=vercel&logoColor=white)](https://mohamedalaaser.com)
 [![GitHub](https://img.shields.io/badge/-mohamedalaaser-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/mohamedalaaser)
 [![Email](https://img.shields.io/badge/-hello-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:mohamed.s.alaaser@icloud.com)
 
