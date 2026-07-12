@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/profile.png" alt="Mohamed Alaaser" width="180" style="border-radius: 50%;" />
+<img src="./assets/profile.jpg" alt="Mohamed Alaaser" width="180" style="border-radius: 50%;" />
 
 # Mohamed Alaaser
 
