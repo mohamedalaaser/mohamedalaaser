@@ -1,30 +1,37 @@
-<div align="center">
+<!-- header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:818CF8&height=180&section=header&text=Mohamed%20Alaaser&fontSize=48&fontColor=fff&animation=twinkling" width="100%" alt="Mohamed Alaaser" />
 
-<img src="./assets/profile.jpg" alt="Mohamed Alaaser" width="180" style="border-radius: 50%;" />
+<!-- hero -->
+<table>
+  <tr>
+    <td width="200" valign="top" align="center">
+      <img src="./assets/profile.jpg" alt="Mohamed Alaaser" width="180" style="border-radius: 50%; border: 3px solid #6366F1;" />
+      <br /><br />
+      <img src="https://komarev.com/ghpvc/?username=mohamedalaaser&label=Profile%20views&color=6366F1&style=for-the-badge" alt="Profile views" />
+    </td>
+    <td valign="top">
+      <h3>Software Engineer · Full-Stack · Mobile</h3>
+      <p>
+        Building production systems from embedded hardware to cloud — currently shaping
+        <strong>Vehicle-to-Grid (V2G)</strong> at <strong>The Mobility House Energy</strong>
+        while pursuing an <strong>MSc in Informatics @ TUM</strong>.
+      </p>
+      <p>
+        📍 Munich, Germany &nbsp;·&nbsp; 🎓 TUM Informatics &nbsp;·&nbsp; 📱 <strong>5</strong> live apps on App Store / Play Store
+      </p>
+      <p>
+        <a href="https://www.linkedin.com/in/mohamed-alaaser-b05b60183/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+        <a href="https://mohamedalaaser.com"><img src="https://img.shields.io/badge/Portfolio-mohamedalaaser.com-6366F1?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+        <a href="mailto:mohamed.s.alaaser@icloud.com"><img src="https://img.shields.io/badge/Email-mohamed.s.alaaser@icloud.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+      </p>
+      <p align="center">
+        <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=550&lines=Full-Stack+%26+Mobile+Engineer;V2G+%26+Energy+Products;Flutter+%C2%B7+React+%C2%B7+Next.js;Shipping+to+App+Store+%26+Play+Store;Open+Source+Contributor+%40+TUM" alt="Typing animation" /></a>
+      </p>
+    </td>
+  </tr>
+</table>
 
-# Mohamed Alaaser
-
-**Software Engineer · Full-Stack · Mobile**
-
-Building production systems from embedded hardware to cloud — currently shaping **Vehicle-to-Grid (V2G)** at **The Mobility House Energy** while pursuing an **MSc in Informatics @ TUM**.
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-alaaser-b05b60183/)
-[![Email](https://img.shields.io/badge/Email-mohamed.s.alaaser@icloud.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohamed.s.alaaser@icloud.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-mohamedalaaser.com-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://mohamedalaaser.com)
-
-<br />
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Full-Stack+%26+Mobile+Engineer;V2G+%26+Energy+Products;Flutter+%C2%B7+React+%C2%B7+Next.js;Shipping+to+App+Store+%26+Play+Store;Open+Source+Contributor+%40+TUM)](https://git.io/typing-svg)
-
-<br />
-
-📍 Munich, Germany · 🎓 TUM Informatics · 📱 **5** live apps on App Store / Play Store
-
-</div>
-
----
-
-## 👋 About
+<img src="https://capsule-render.vercel.app/api?type=soft&color=6366F1&height=40&section=header&text=About%20Me&fontSize=22&fontColor=fff" width="100%" alt="About Me" />
 
 ```typescript
 const mohamed = {
@@ -39,45 +46,70 @@ const mohamed = {
 
 Passionate about **elegant, user-centric software**. I work comfortably across the stack — from **Flutter & React** frontends to **Node, Java, and cloud infra** — with a soft spot for native-feeling mobile experiences and production-grade energy products.
 
----
+<img src="https://capsule-render.vercel.app/api?type=soft&color=818CF8&height=40&section=header&text=Currently&fontSize=22&fontColor=fff" width="100%" alt="Currently" />
 
-## 🔭 Currently
+> ⚡ **Integrating Vehicle-to-Grid (V2G)** and bidirectional charging at **The Mobility House Energy**
+>
+> Domains: V2G & energy markets · E-commerce · FinTech · Open source · Embedded systems
 
-- ⚡ Integrating **Vehicle-to-Grid (V2G)** and bidirectional charging at **The Mobility House Energy**
-
----
-
-## 🛠 Tech Stack
+<img src="https://capsule-render.vercel.app/api?type=soft&color=6366F1&height=40&section=header&text=Tech%20Stack&fontSize=22&fontColor=fff" width="100%" alt="Tech Stack" />
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=ts,react,nextjs,flutter,dart,nodejs,nestjs,java,spring,python,cpp,aws,firebase,gcp,docker,git&perline=8" alt="Tech stack" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" alt="GraphQL" />
-  <img src="https://img.shields.io/badge/Hasura-1EB4D4?style=flat-square&logo=hasura&logoColor=white" alt="Hasura" />
-  <img src="https://img.shields.io/badge/VHDL-193CB8?style=flat-square" alt="VHDL" />
-  <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white" alt="Unity" />
-  <img src="https://img.shields.io/badge/OpenGL-5586A4?style=flat-square" alt="OpenGL" />
-  <img src="https://img.shields.io/badge/CI%2FCD-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="CI/CD" />
+  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL" />
+  <img src="https://img.shields.io/badge/Hasura-1EB4D4?style=for-the-badge&logo=hasura&logoColor=white" alt="Hasura" />
+  <img src="https://img.shields.io/badge/VHDL-193CB8?style=for-the-badge" alt="VHDL" />
+  <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity" />
+  <img src="https://img.shields.io/badge/OpenGL-5586A4?style=for-the-badge" alt="OpenGL" />
+  <img src="https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="CI/CD" />
 </p>
 
----
+<img src="https://capsule-render.vercel.app/api?type=soft&color=818CF8&height=40&section=header&text=Featured%20Projects&fontSize=22&fontColor=fff" width="100%" alt="Featured Projects" />
 
-## ⭐ Featured Projects
-
-| Project | Description | Stack |
-| :--- | :--- | :--- |
-| [**Gym Tracker**](https://github.com/mohamedalaaser/gym_tracker) | iOS-first workout logger with native UI, home widgets & Live Activities | `Flutter` `Dart` `Swift` |
-| [**JARVIS**](https://github.com/mohamedalaaser/jarvis) | Voice AI assistant with holographic 3D stage, memory & MCP tools | `Next.js` `Claude` `Three.js` |
-| [**Uni'd Food**](https://github.com/mohamedalaaser/Uni-dFood) | Campus food ordering — customer app, restaurant app & admin portal · **Live on App Store & Play Store** | `Flutter` `Node.js` `AWS` |
-| [**Module-Management**](https://github.com/ls1intum/Module-Management) | Open-source contributor to TUM's university module management platform | `TypeScript` `Angular` |
-| [**Smart Home**](https://github.com/mohamedalaaser/SmartHome) | IoT automation with FPGA (VHDL), sensors & Flutter Bluetooth control | `Flutter` `VHDL` `FPGA` |
-| [**HearthStone Clone**](https://github.com/mohamedalaaser/HearthStone-Clone) | Two-player turn-based card game with full desktop GUI | `Java` `Swing` |
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🏋️ <a href="https://github.com/mohamedalaaser/gym_tracker">Gym Tracker</a></h4>
+      <p>iOS-first workout logger with native UI, home widgets & Live Activities</p>
+      <code>Flutter</code> <code>Dart</code> <code>Swift</code>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🤖 <a href="https://github.com/mohamedalaaser/jarvis">JARVIS</a></h4>
+      <p>Voice AI assistant with holographic 3D stage, memory & MCP tools</p>
+      <code>Next.js</code> <code>Claude</code> <code>Three.js</code>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🍔 <a href="https://github.com/mohamedalaaser/Uni-dFood">Uni'd Food</a></h4>
+      <p>Campus food ordering — customer, restaurant & admin apps · <strong>Live on App Store & Play Store</strong></p>
+      <code>Flutter</code> <code>Node.js</code> <code>AWS</code>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🎓 <a href="https://github.com/ls1intum/Module-Management">Module-Management</a></h4>
+      <p>Open-source contributor to TUM's university module management platform</p>
+      <code>TypeScript</code> <code>Angular</code>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🏠 <a href="https://github.com/mohamedalaaser/SmartHome">Smart Home</a></h4>
+      <p>IoT automation with FPGA (VHDL), sensors & Flutter Bluetooth control</p>
+      <code>Flutter</code> <code>VHDL</code> <code>FPGA</code>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🃏 <a href="https://github.com/mohamedalaaser/HearthStone-Clone">HearthStone Clone</a></h4>
+      <p>Two-player turn-based card game with full desktop GUI</p>
+      <code>Java</code> <code>Swing</code>
+    </td>
+  </tr>
+</table>
 
 <details>
 <summary><strong>📦 More projects</strong></summary>
-
 <br />
 
 | Project | Description |
@@ -90,54 +122,69 @@ Passionate about **elegant, user-centric software**. I work comfortably across t
 
 </details>
 
----
+<img src="https://capsule-render.vercel.app/api?type=soft&color=6366F1&height=40&section=header&text=GitHub%20Stats&fontSize=22&fontColor=fff" width="100%" alt="GitHub Stats" />
 
-## 📊 GitHub Stats
+<p align="center">
+  <img height="170" src="./profile/stats.svg" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=mohamedalaaser&theme=tokyonight&hide_border=true&background=0D1117&ring=6366F1&fire=818CF8&currStreakLabel=6366F1" alt="GitHub streak" />
+  <br />
+  <img height="170" src="./profile/top-langs.svg" alt="Top languages" />
+</p>
 
-<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=soft&color=818CF8&height=40&section=header&text=Experience&fontSize=22&fontColor=fff" width="100%" alt="Experience" />
 
-<img height="170" src="./profile/stats.svg" alt="GitHub stats" />
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=mohamedalaaser&theme=tokyonight&hide_border=true&background=0D1117&ring=6366F1&fire=818CF8&currStreakLabel=6366F1" alt="GitHub streak" />
+<table>
+  <tr>
+    <td width="28%" valign="top"><strong>Jan 2026 – Present</strong></td>
+    <td valign="top">
+      <strong>Software Engineer</strong> · The Mobility House Energy<br />
+      <sub>Building V2G integration and bidirectional charging products</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="28%" valign="top"><strong>Jan 2025 – Dec 2025</strong></td>
+    <td valign="top">
+      <strong>Junior Software Engineer</strong> · The Mobility House<br />
+      <sub>APIs, services, and front-end for production energy & mobility products</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="28%" valign="top"><strong>Mar 2024 – Dec 2024</strong></td>
+    <td valign="top">
+      <strong>Working Student Software Eng.</strong> · The Mobility House<br />
+      <sub>Full-stack features across smart charging and energy platforms</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="28%" valign="top"><strong>Jan 2024 – Aug 2024</strong></td>
+    <td valign="top">
+      <strong>Mobile Software Engineer</strong> · SE7REK<br />
+      <sub>End-to-end beauty retail app — catalog, cart, checkout & REST integrations</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="28%" valign="top"><strong>Mar 2023 – Nov 2023</strong></td>
+    <td valign="top">
+      <strong>Junior Software Engineer</strong> · Suplyd<br />
+      <sub>GraphQL APIs and HoReCa supply ordering platform in a startup environment</sub>
+    </td>
+  </tr>
+</table>
 
-<br />
+<!-- footer -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:818CF8,100:6366F1&height=120&section=footer&text=Let%27s%20Connect&fontSize=32&fontColor=fff&animation=twinkling" width="100%" alt="Let's Connect" />
 
-<img height="170" src="./profile/top-langs.svg" alt="Top languages" />
+<p align="center">
+  If you're building something interesting — I'd love to hear from you.
+</p>
 
-</div>
+<p align="center">
+  <a href="https://www.linkedin.com/in/mohamed-alaaser-b05b60183/"><img src="https://img.shields.io/badge/LinkedIn-Mohamed_Alaaser-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://mohamedalaaser.com"><img src="https://img.shields.io/badge/Portfolio-mohamedalaaser.com-6366F1?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://github.com/mohamedalaaser"><img src="https://img.shields.io/badge/GitHub-mohamedalaaser-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="mailto:mohamed.s.alaaser@icloud.com"><img src="https://img.shields.io/badge/Email-hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
 
----
-
-## 💼 Experience Highlights
-
-```
-The Mobility House Energy    Software Engineer               Jan 2026 – Present
-The Mobility House           Junior Software Engineer        Jan 2025 – Dec 2025
-The Mobility House           Working Student Software Eng.   Mar 2024 – Dec 2024
-SE7REK                       Mobile Software Engineer        Jan 2024 – Aug 2024
-Suplyd                       Junior Software Engineer        Mar 2023 – Nov 2023
-```
-
-**Domains:** V2G & energy markets · E-commerce · FinTech · Open source · Embedded systems
-
----
-
-<div align="center">
-
-### 💬 Let's connect
-
-If you're building something interesting — I'd love to hear from you.
-
-[![LinkedIn](https://img.shields.io/badge/-Mohamed_Alaaser-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-alaaser-b05b60183/)
-[![Portfolio](https://img.shields.io/badge/-mohamedalaaser.com-000000?style=flat-square&logo=vercel&logoColor=white)](https://mohamedalaaser.com)
-[![GitHub](https://img.shields.io/badge/-mohamedalaaser-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/mohamedalaaser)
-[![Email](https://img.shields.io/badge/-hello-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:mohamed.s.alaaser@icloud.com)
-
-<br />
-
-*"Passionate about elegant software — from hardware and embedded systems to cloud infrastructure and polished user experiences."*
-
-<br />
-
-<img src="https://komarev.com/ghpvc/?username=mohamedalaaser&label=Profile%20views&color=6366F1&style=flat-square" alt="Profile views" />
-
-</div>
+<p align="center">
+  <i>"Passionate about elegant software — from hardware and embedded systems to cloud infrastructure and polished user experiences."</i>
+</p>
