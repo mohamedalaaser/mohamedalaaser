@@ -6,7 +6,7 @@
 
 **Software Engineer · Full-Stack · Mobile**
 
-Building production systems from embedded hardware to cloud — currently shaping **Vehicle-to-Grid (V2G)** at **The Mobility House** while pursuing an **MSc in Informatics @ TUM**.
+Building production systems from embedded hardware to cloud — currently shaping **Vehicle-to-Grid (V2G)** at **The Mobility House Energy** while pursuing an **MSc in Informatics @ TUM**.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-alaaser-b05b60183/)
 [![Email](https://img.shields.io/badge/Email-mohamed.s.alaaser@icloud.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohamed.s.alaaser@icloud.com)
@@ -28,7 +28,7 @@ Building production systems from embedded hardware to cloud — currently shapin
 
 ```typescript
 const mohamed = {
-  role: "Software Engineer @ The Mobility House",
+  role: "Software Engineer @ The Mobility House Energy",
   focus: ["Full-Stack", "Mobile", "Energy & V2G", "Polished UX"],
   education: "MSc Informatics @ Technical University of Munich",
   location: "Munich, Bavaria, Germany",
@@ -43,7 +43,7 @@ Passionate about **elegant, user-centric software**. I work comfortably across t
 
 ## 🔭 Currently
 
-- ⚡ Integrating **Vehicle-to-Grid (V2G)** and bidirectional charging at **The Mobility House**
+- ⚡ Integrating **Vehicle-to-Grid (V2G)** and bidirectional charging at **The Mobility House Energy**
 
 ---
 
@@ -120,10 +120,11 @@ Passionate about **elegant, user-centric software**. I work comfortably across t
 ## 💼 Experience Highlights
 
 ```
-The Mobility House Energy    Software Engineer          Jan 2026 – Present
-The Mobility House Energy    Junior Software Engineer   Jan 2025 – Dec 2025
-Se7rek                       Mobile Engineer            Jan 2024 – Aug 2024
-Suplyd                       Full-Stack Engineer        Mar 2023 – Nov 2023
+The Mobility House Energy    Software Engineer               Jan 2026 – Present
+The Mobility House           Junior Software Engineer        Jan 2025 – Dec 2025
+The Mobility House           Working Student Software Eng.   Mar 2024 – Dec 2024
+SE7REK                       Mobile Software Engineer        Jan 2024 – Aug 2024
+Suplyd                       Junior Software Engineer        Mar 2023 – Nov 2023
 ```
 
 **Domains:** V2G & energy markets · E-commerce · FinTech · Open source · Embedded systems
