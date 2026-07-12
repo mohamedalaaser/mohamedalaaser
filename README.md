@@ -96,24 +96,14 @@ Passionate about **elegant, user-centric software**. I work comfortably across t
 
 <div align="center">
 
-<img height="170" src="https://readme-stats-fast.vercel.app/api?username=mohamedalaaser&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=6366F1&icon_color=818CF8" alt="GitHub stats" />
-<img height="170" src="https://streak-stats.demolab.com/?user=mohamedalaaser&theme=tokyonight&hide_border=true&background=0D1117&ring=6366F1&fire=818CF8&currStreakLabel=6366F1" alt="GitHub streak" />
+<img height="170" src="https://readme-stats-fast.vercel.app/api?username=mohamedalaaser&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&hide_rank=true&bg_color=0d1117&title_color=6366F1&icon_color=818CF8" alt="GitHub stats" />
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=mohamedalaaser&theme=tokyonight&hide_border=true&background=0D1117&ring=6366F1&fire=818CF8&currStreakLabel=6366F1" alt="GitHub streak" />
 
 <br />
 
 <img height="170" src="https://readme-stats-fast.vercel.app/api/top-langs/?username=mohamedalaaser&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366F1" alt="Top languages" />
 
 </div>
-
----
-
-## 🐍 Contribution Graph
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mohamedalaaser/mohamedalaaser/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mohamedalaaser/mohamedalaaser/output/github-contribution-grid-snake.svg">
-  <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/mohamedalaaser/mohamedalaaser/output/github-contribution-grid-snake-dark.svg">
-</picture>
 
 ---
 
