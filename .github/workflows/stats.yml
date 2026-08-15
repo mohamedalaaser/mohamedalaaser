@@ -1,13 +1,7 @@
 name: Update GitHub stats cards
 
 on:
-  schedule:
-    - cron: "0 3 * * *"
   workflow_dispatch:
-  push:
-    branches: [main]
-    paths:
-      - .github/workflows/stats.yml
 
 jobs:
   build:
