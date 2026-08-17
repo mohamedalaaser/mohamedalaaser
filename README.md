@@ -149,6 +149,13 @@ Passionate about **elegant, user-centric software**. I work comfortably across t
     </td>
   </tr>
   <tr>
+    <td width="28%" valign="top"><strong>Apr 2025 – Sep 2025</strong></td>
+    <td valign="top">
+      <strong>Backend Team Lead</strong> · Pactos <em>(part-time, via CSEE)</em><br />
+      <sub>Led the backend team shipping an AI-powered ATS for contingent workforce management — later integrated into Pactos' platform</sub>
+    </td>
+  </tr>
+  <tr>
     <td width="28%" valign="top"><strong>Mar 2024 – Dec 2024</strong></td>
     <td valign="top">
       <strong>Working Student Software Eng.</strong> · The Mobility House<br />
