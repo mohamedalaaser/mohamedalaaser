@@ -25,7 +25,7 @@
         <a href="mailto:mohamed.s.alaaser@icloud.com"><img src="https://img.shields.io/badge/Email-mohamed.s.alaaser@icloud.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
       </p>
       <p align="center">
-        <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=550&lines=Full-Stack+%26+Mobile+Engineer;V2G+%26+Energy+Products;Flutter+%C2%B7+React+%C2%B7+Next.js;Shipping+to+App+Store+%26+Play+Store;Open+Source+Contributor+%40+TUM" alt="Typing animation" /></a>
+        <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=550&lines=Full-Stack+%26+Mobile+Engineer;V2G+%26+Energy+Products;Flutter+%C2%B7+React+%C2%B7+Next.js;Shipping+to+App+Store+%26+Play+Store;MSc+Informatics+%40+TUM" alt="Typing animation" /></a>
       </p>
     </td>
   </tr>
@@ -50,7 +50,7 @@ Passionate about **elegant, user-centric software**. I work comfortably across t
 
 > ⚡ **Integrating Vehicle-to-Grid (V2G)** and bidirectional charging at **The Mobility House Energy**
 >
-> Domains: V2G & energy markets · E-commerce · FinTech · Open source · Embedded systems
+> Domains: V2G & energy markets · E-commerce · FinTech · Embedded systems
 
 <img src="https://capsule-render.vercel.app/api?type=soft&color=6366F1&height=40&section=header&text=Tech%20Stack&fontSize=22&fontColor=fff" width="100%" alt="Tech Stack" />
 
@@ -89,17 +89,12 @@ Passionate about **elegant, user-centric software**. I work comfortably across t
       <code>Flutter</code> <code>Node.js</code> <code>AWS</code>
     </td>
     <td width="50%" valign="top">
-      <h4>🎓 <a href="https://github.com/ls1intum/Module-Management">Module-Management</a></h4>
-      <p>Open-source contributor to TUM's university module management platform</p>
-      <code>TypeScript</code> <code>Angular</code>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
       <h4>🏠 <a href="https://github.com/mohamedalaaser/SmartHome">Smart Home</a></h4>
       <p>IoT automation with FPGA (VHDL), sensors & Flutter Bluetooth control</p>
       <code>Flutter</code> <code>VHDL</code> <code>FPGA</code>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h4>🃏 <a href="https://github.com/mohamedalaaser/HearthStone-Clone">HearthStone Clone</a></h4>
       <p>Two-player turn-based card game with full desktop GUI</p>
@@ -115,7 +110,6 @@ Passionate about **elegant, user-centric software**. I work comfortably across t
 | Project | Description |
 | :--- | :--- |
 | [Database Engine](https://github.com/mohamedalaaser/Database-Engine) | Custom relational DB with page storage, SQL parsing & grid indexing |
-| [vertical_scrollable_tabview](https://github.com/mohamedalaaser/vertical_scrollable_tabview) | OSS fix merged into Flutter plugin v0.0.7 |
 | [MazeRunner](https://github.com/mohamedalaaser/MazeRunner) | 3D maze game in C/OpenGL |
 | [Tayartak](https://github.com/mohamedalaaser/Tayartak) | Airline booking platform — React + Express + MongoDB |
 | [Gossip-17](https://github.com/mohamedalaaser/Gossip-17) | Gossip protocol for anonymous VoIP (TUM) |
