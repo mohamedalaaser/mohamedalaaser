@@ -39,7 +39,7 @@ const mohamed = {
   focus: ["Full-Stack", "Mobile", "Energy & V2G", "Polished UX"],
   education: "MSc Informatics @ Technical University of Munich",
   location: "Munich, Bavaria, Germany",
-  currentlyLearning: ["V2G integration", "Security & Privacy", "Robotics"],
+  currentlyLearning: ["Engineering Software-intensive Systems", "Security & Privacy", "Robotics"],
   funFact: "Built everything from FPGA smart homes to App Store apps.",
 };
 ```
